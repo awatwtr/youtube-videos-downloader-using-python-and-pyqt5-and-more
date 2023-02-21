@@ -1,5 +1,6 @@
 # YOUTUBE Videos Downloader tools
 
+
 ## screenshot
 
 ![](image/README/1677022340339.png)
@@ -27,5 +28,5 @@ use the tool for your own project
 
 
 ```
-git clone "and the link you copyed"
+git clone "git@github.com:Wolduur737/youtube-videos-downloader-using-python-and-pyqt5-and-more.git"
 ```
