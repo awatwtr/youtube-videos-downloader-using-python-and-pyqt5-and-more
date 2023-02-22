@@ -11,7 +11,7 @@
 - PyQt5
 - pytube
 
-## you can castmize
+## You can customise
 
 - Logo
 - Full-screen
